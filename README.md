@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitish Rai</h1>
-<div align="center"> <img src="https://github.com/Nitishrai1/Nitishrai1/blob/main/DSC_0222_1.JPG"> </div>
+<div align="center"><img align="right" alt="Coding"  src="https://github.com/Nitishrai1/Nitishrai1/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif">  </div>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 
