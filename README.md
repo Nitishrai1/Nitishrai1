@@ -43,5 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishrai1&" alt="nitishrai1" /></p>
 <!-- GitHub Contribution Graph Snake - Start -->
-![Snake animation](https://github.com/Nitishrai1/Nitishrai1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Nitishrai1/Nitishrai1/output/github-contribution-grid-snake.svg)
+
 <!-- GitHub Contribution Graph Snake - End -->
