@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/59168880/119048764-4dda5f80-b9dd-11eb-89bc-05649c4decf5.gif" width="100%" height="400px">
+<img src="https://user-images.githubusercontent.com/59168880/119048764-4dda5f80-b9dd-11eb-89bc-05649c4decf5.gif" width="100%" height="300px">
 <h1 align="center">Hi 👋, I'm Nitish Rai</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
