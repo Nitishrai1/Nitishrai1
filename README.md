@@ -46,7 +46,7 @@
 <div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitishrai1&" alt="nitishrai1" /></p>
 </div>
 
-[![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitishrai1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nitish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitishrai1&theme=react-dark)](https://github.com/Nitishrai1/github-readme-activity-graph)
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Nitishrai1/Nitishrai1/blob/output/github-contribution-grid-snake.svg">
