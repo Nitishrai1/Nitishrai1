@@ -12,7 +12,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 🔭 I’m currently working on **eCommerce website, Port Folio**
+- 🔭 I’m currently working on "backend development"
 
 - 🌱 I’m currently learning **Express, MongoDb, DSA**
 
